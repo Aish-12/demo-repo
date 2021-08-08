@@ -1,2 +1,2 @@
 # demo-repo
-Demo resepository 
+Demo repository 
